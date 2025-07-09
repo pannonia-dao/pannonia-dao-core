@@ -6,8 +6,8 @@ Ez a repository tartalmazza a Pannonia-DAO projekt legfontosabb dokumentumait: a
 
 | Téma | Fájl |
 |------|------|
-| Alaptörvény | [foundation/Alaptorveny.pdf](foundation/Alaptorveny.pdf) |
-| Robotstratégia | [foundation/Robot_Strategia.pdf](foundation/Robot_Strategia.pdf) |
+| Alaptörvény | [foundation/Alaptorveny.pdf](foundation/Alaptorveny.md) |
+| Robotstratégia | [foundation/Robot_Strategia.pdf](foundation/Robot_Strategia.md) |
 | Szabályozás | [foundation/Szabalyozas.pdf](foundation/Szabalyozas.pdf) |
 | Védelmi protokoll | [foundation/Vedelmi_Robotika.pdf](foundation/Vedelmi_Robotika.pdf) |
 | Társadalmi ütemterv | [foundation/Transzformacio_2032.pdf](foundation/Transzformacio_2032.pdf) |
