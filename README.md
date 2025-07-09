@@ -10,7 +10,7 @@ Ez a repository tartalmazza a Pannonia-DAO projekt legfontosabb dokumentumait: a
 | Robotstratégia | [foundation/Robot_Strategia.md](foundation/Robot_Strategia.md) |
 | Szabályozás | [foundation/Szabalyozas.md](foundation/Szabalyozas.md) |
 | Védelmi protokoll | [foundation/Vedelmi_Robotika.md](foundation/Vedelmi_Robotika.md) |
-| Társadalmi ütemterv | [foundation/Transzformacio_2032.md](foundation/Transzformacio_2032.md) |
+| Társadalmi ütemterv | [foundation/Transzformacio.md](foundation/Transzformacio.md) |
 | Zöldenergia | [foundation/Zoldenergia_Strategia.md](foundation/Zoldenergia_Strategia.md) |
 | Vízmegtartás | [foundation/Vizmegtarto_Strategia.md](foundation/Vizmegtarto_Strategia.md) |
 | Költségvetés | [foundation/Indulo_Koltsegvetes.md](foundation/Indulo_Koltsegvetes.md) |
