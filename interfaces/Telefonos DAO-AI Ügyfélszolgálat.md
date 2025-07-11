@@ -13,7 +13,7 @@ Lehetővé tenni, hogy a Pannonia-DAO polgárai regisztráció nélkül, élő h
 | 🧑‍💼 AI-agent (pl. Hunor) | Ügytípus azonosítása, szabályalapú végrehajtás | Jogosítványügy továbbítása az Okmányügyi DAO-modulnak |
 | 🔐 Hangalapú azonosítás (Voice Biometrics) | Hangazonosítás jelszó nélkül | 5 másodperces beszéd alapján személy hitelesítése |
 | 🔗 Tokenes szavazás integráció | Egyéni vagy közösségi döntés token alapon | „Támogatja-e a helyi park átalakítását?” |
-| 📤 Proaktív AI-hívás | DAO által generált kimenő hívás | „Kedves Gergely, kérjük erősítse meg a támogatását az új drónpilóta-képzéshez.” |
+| 📤 Proaktív AI-hívás | DAO által generált kimenő hívás | „Kedves Csaba, kérjük erősítse meg a támogatását az új drónpilóta-képzéshez.” |
 
 ---
 
