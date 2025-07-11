@@ -1,4 +1,4 @@
-# 📞 Telefonos DAO-AI Ügyfélszolgálat – Mélyelemzés
+# 📞 Telefonos DAO-AI Ügyfélszolgálat - Voice
 
 ## 🎯 Cél
 Lehetővé tenni, hogy a Pannonia-DAO polgárai regisztráció nélkül, élő hangon, telefonon keresztül intézzék közigazgatási ügyeiket egy AI-alapú, teljes mértékben decentralizált ügyfélszolgálati rendszeren keresztül.
