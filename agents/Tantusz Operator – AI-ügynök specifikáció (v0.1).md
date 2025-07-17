@@ -71,17 +71,15 @@ CO2_többlet = Tantusz_karbon_score → + governance fee (ha átlépi küszöbö
 
 ## 🛡️ Integrációs pontok
 
-- 🔗 **Microsoft Copilot Studio**
 - 🚀 **REST API Gateway**
 - 📂 **GitHub (smart contract frissítés)**
-- 📦 **Postás Asszisztens LogHub (CSV / JSON)**
-- 📈 **Power BI / Carbon Score Dashboard**
+- 📦 **Kézbesítő Asszisztens LogHub (CSV / JSON)**
+- 📈 **BI / Carbon Score Dashboard**
 
 ---
 
 ## 🤭 Jövőbeli fejlesztések
 
-- [ ] Tantusz NFT kibocsátás a DAO-n belül (ERC-1155)
 - [ ] LLM auditlog auto-ellenőrzés (fairness, compliance)
 - [ ] Lokális LLM fallback ha nincs hálózat
 - [ ] Haptikus futárasszisztens (wearable AI agent)
