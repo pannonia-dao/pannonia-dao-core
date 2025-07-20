@@ -1,7 +1,7 @@
 # 💸 Zöldterületi Vidéki Alapjövedelem – Közösségi Szavazás
 
 ## 🗓️ Szavazási időszak
-2025. július 21. – július 28.
+2025. július 21. – 2026. január 1.
 
 ---
 
