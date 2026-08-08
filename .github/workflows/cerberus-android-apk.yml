@@ -34,21 +34,21 @@ jobs:
         with:
           gradle-version: '8.11.1'
 
-      - name: Build Cerberus Signal Lab v0.2
+      - name: Build Cerberus Sentinel v0.3
         working-directory: cerberus-android-demo
         run: gradle --no-daemon :app:assembleDebug
 
       - name: Package artifact
         run: |
-          cp cerberus-android-demo/app/build/outputs/apk/debug/app-debug.apk Cerberus-Signal-Lab-v0.2-debug.apk
-          sha256sum Cerberus-Signal-Lab-v0.2-debug.apk | tee Cerberus-Signal-Lab-v0.2-debug.apk.sha256
+          cp cerberus-android-demo/app/build/outputs/apk/debug/app-debug.apk Cerberus-Sentinel-v0.3-debug.apk
+          sha256sum Cerberus-Sentinel-v0.3-debug.apk | tee Cerberus-Sentinel-v0.3-debug.apk.sha256
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
-          name: Cerberus-Signal-Lab-v0.2-APK
+          name: Cerberus-Sentinel-v0.3-APK
           path: |
-            Cerberus-Signal-Lab-v0.2-debug.apk
-            Cerberus-Signal-Lab-v0.2-debug.apk.sha256
+            Cerberus-Sentinel-v0.3-debug.apk
+            Cerberus-Sentinel-v0.3-debug.apk.sha256
           if-no-files-found: error
           retention-days: 30
