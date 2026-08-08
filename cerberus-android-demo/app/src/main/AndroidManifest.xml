@@ -5,7 +5,9 @@
         android:allowBackup="false"
         android:usesCleartextTraffic="false"
         android:theme="@android:style/Theme.Material.NoActionBar"
-        android:label="Cerberus Signal Lab">
+        android:label="Cerberus Sentinel"
+        android:icon="@drawable/ic_cerberus_sentinel"
+        android:roundIcon="@drawable/ic_cerberus_sentinel">
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait"
